@@ -4,8 +4,7 @@ SQL analysis of energy production and demand to find the best location for a dat
 ## 📊 Key Visualizations
 Here are some key Tableau visualizations from my SQL Energy Analysis project:
 
-### Energy Dashboard  
-![Energy Dashboard](Energy_Dashboard.png)
+
 
 ### Net Production  
 ![Net Production](Net_Production.png)
