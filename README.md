@@ -13,8 +13,11 @@ Here are some key Tableau visualizations from my SQL Energy Analysis project:
 ### Renewable Energy as % of Generation  
 ![Renewable Energy](Renewable_Energy.png)
 
-### Energy by State  
-![Energy by State](Energy_by_State.png)
+### Energy by State Northwest Region
+![Energy by State](Energy_by_State(NorthWest).png)
+
+### Energy by State Central Region
+![Energy by State](Energy_by_State(Central).png)
 
 ### Energy Source by Region  
 ![Energy Source by Region](Energy_Source_by_Region.png)
